@@ -7,6 +7,8 @@
     height: 500px;
     min-width: 900px;
     background-image: url('./../imges/砖头.jpg');
+    background-size: 100%;
+    background-position-x: center;
     background-repeat: no-repeat;
 }
 .brickShow
@@ -18,17 +20,20 @@
     height: 500px;
     min-width: 900px;
     background-image: url('./../imges/砖头2.jpg');
+    background-size: 100%;
+    background-position-x:center ;
     background-repeat: no-repeat;
 }
 .stoveShow
 {
     margin: 0;
     display: block;
-    background: rgb(206, 206, 206);
+    background: white;
     width: 100%;
     height: 500px;
     min-width: 900px;
     background-image: url('./../imges/电磁炉.jpg');
+    background-position-x: center;
     background-repeat: no-repeat;
 }
 .stove,
