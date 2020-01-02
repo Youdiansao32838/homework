@@ -34,6 +34,11 @@
     background-repeat: no-repeat;
     background-position-x: center;
 }
+.dwShow,
+.dwShow2,
+.dwShow3{
+    background-size: 100%;
+}
 .dw3,
 .dw2,
 .dw1

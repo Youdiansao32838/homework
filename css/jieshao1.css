@@ -4,6 +4,9 @@
     min-width: 900px;
     height: 770px;
     background-image: url(./../imges/砖头2w.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-x: center;
 }
 .text01{
     text-align: center;
