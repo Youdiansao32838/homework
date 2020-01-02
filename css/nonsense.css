@@ -1,0 +1,67 @@
+.nonsense
+{
+    margin: 0;
+    display: block;
+    background:white;
+    height: 2000px;
+    width: 100%;
+    min-width: 1300px;
+}
+.introduce3
+{
+    display: block;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.nonsense .introduce
+{
+    display: block;
+    font-size: 20px;
+    color: rgb(32, 32, 32);
+}
+.img1
+{
+    margin-top: 40px;
+    margin-left: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.text1,
+.text5
+{
+    margin-left: 40px;
+    display: inline-block;
+    font-size: 30px;
+}
+.text2,
+.text6
+{
+    margin-top: 10px;
+    display: block;
+    font-size: 20px;
+}
+.text3
+{
+    margin-left: 100px;
+    display: inline-block;
+    font-size: 30px;
+}
+.text4
+{
+    margin-top: 10px;
+    display: block;
+    font-size: 20px;
+}
+.text5,
+.text6
+{
+    color: white;
+}
+.nonsense .end
+{
+    background-color: black;
+    height: 600px;
+}

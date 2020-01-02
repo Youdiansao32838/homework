@@ -1,0 +1,189 @@
+.firstblock{
+    margin: 0;
+    background-image: url(./../imges/imgOfStove/first.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    height: 770px;
+    width: 100%;
+    min-width: 900px;
+}
+.firstblock .text1{
+    padding-top: 150px;
+    text-align: center;
+}
+.text1 .top{
+    color: black;
+    font-size: 60px;
+}
+.text1 .down{
+    color: black;
+    font-size: 30px;
+}
+.text1 .smalltext{
+    color: gray;
+    font-size: 15px;
+}
+.text1 .buy{
+    padding-top: 10px;
+}
+.text1 .buy a:link,
+.text1 .buy a:visited{
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+}
+
+.scendblock{
+    margin: 0;
+    background-image: url(./../imges/imgOfStove/dclu5.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 1400px;
+    height: 579px;
+    width: 100%;
+    min-width: 900px;
+}
+.text2{
+    letter-spacing: 3px;
+    padding-top: 160px;
+    text-align: center;
+}
+.text2 .top{
+    color: white;
+    font-size: 40px;
+}
+.text2 .down{
+    padding-top: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.thirdblock{
+    margin: 0;
+    background-image: url(./../imges/imgOfStove/stove5.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    height: 400px;
+    width: 100%;
+    min-width: 900px;
+}
+.text3{
+    padding-top: 60px;
+    text-align: center;
+}
+.text3 .top{
+    color: black;
+    font-size: 70px;
+}
+.text3 .buy{
+    padding-top: 130px;
+}
+.text3 .buy a:link,
+.text3 .buy a:visited{
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+}
+
+.fourthblock{
+    margin: 0;
+    background-image: url(./../imges/imgOfStove/d.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 1400px;
+    height: 788px;
+    width: 100%;
+    min-width: 900px;
+}
+.text4{
+    text-align: center;
+    padding-top: 20px;
+}
+.text4 .top{
+    color: white;
+    font-size: 30px;
+}
+.text4 .down{
+    padding-top: 10px;
+    color: white;
+    font-size: 15px;
+}
+
+.fivethblock{
+    background: white;
+    margin: 0;
+    height: 500px;
+    width: 100%;
+    min-width: 900px;
+    background-image: url(./../imges/imgOfStove/stove4.jpg);
+    background-repeat: no-repeat;
+}
+.text5{
+    padding-left: 500px;
+    padding-top: 50px;
+    color: black;
+}
+.text5 .top{
+    font-size: 40px;
+}
+.text5 .down{
+    color: gray;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.sixthblock{
+    background-image: url(./../imges/imgOfStove/dcl4.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 1400px;
+    height: 788px;
+    width: 100%;
+    min-width: 900px;
+}
+
+.seventhblock{
+    background-image: url(./../imges/imgOfStove/stove2.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y:120px;
+    height: 650px;
+    width: 100%;
+    min-width: 900px;
+}
+.text7{
+    text-align: center;
+    padding-top: 50px;
+}
+.text7 .top{
+    font-size: 50px;
+    color: black;
+}
+.text7 .down{
+    font-size: 30px;
+    color: black;
+}
+.text7 .buy{
+    padding-top: 10px;
+}
+.text7 .buy a:link,
+.text7 .buy a:visited{
+    text-align: center;
+    text-align-last: center;
+    display: table-cell;
+    background: rgb(204, 0, 255);
+    width: 130px;
+    height: 40px;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    border-radius: 40px;
+}
+.text7 .buy a:hover{
+    background: rgb(95, 95, 255);
+}
+.text7 .buy a:active{
+    background: rgb(14, 165, 0);
+}

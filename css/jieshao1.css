@@ -1,0 +1,110 @@
+.firstback{
+    margin: 0;
+    width: auto;
+    min-width: 900px;
+    height: 770px;
+    background-image: url(./../imges/砖头2w.jpg);
+}
+.text01{
+    text-align: center;
+    padding-top: 250px;
+}
+.text01 .top{
+    color: white;
+    font-weight: 900;
+    font-size: 90px;
+}
+.text01 .down{
+    color: white;
+    font-size: 30px;
+    padding-top: 0px;
+}
+.text04 .buy a:visited,a:link,
+.text03 .buy a:visited,a:link,
+.text02 .buy a:visited,a:link,
+.text01 .buy a:visited,a:link{
+    color: rgb(86, 154, 255);
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.scandsay{
+    margin: 0;
+    width: auto;
+    min-width: 900px;
+    height: 750px;
+    background-color: white;
+    background-image: url(./../imges/砖块介绍1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.text02{
+    padding-top: 50px;
+    text-align: center;
+}
+.text02 .top{
+    color: black;
+    font-size: 60px;
+}
+.text02 .down{
+    color: black;
+    font-size: 20px;
+}
+.text03 .buy a:visited,a:link,
+.text02 .buy a:visited,a:link{
+    color: rgb(255, 100, 172);
+}
+
+.thirdsay{
+    margin: 0;
+    width: auto;
+    min-width: 900px;
+    height: 700px;
+    background-color: white;
+    background-image: url(./../imges/砖块介绍2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.text03{
+    text-align: center;
+}
+.text03 .top{
+    color: black;
+    font-size: 60px;
+}
+.text03 .down{
+    color: black;
+    font-size: 20px;
+}
+
+.fourthsay{
+    margin: 0;
+    width: auto;
+    min-width: 900px;
+    height: 700px;
+    background-color: white;
+    background-image: url(./../imges/砖块介绍3.jpg);
+    background-repeat: no-repeat;
+    background-position-y: center;
+}
+.text04{
+    padding-top: 50px;
+    padding-left: 700px;
+}
+.text04 .top{
+    color: black;
+    font-size: 50px;
+}
+.text04 .down{
+    color: black;
+    font-size: 20px;
+}
+.text04 .top3,
+.text04 .top2{
+    padding-top: 100px;
+    font-size: 40px;
+    color: black;
+}
+.text04 .top3{
+    font-size: 50px;
+}

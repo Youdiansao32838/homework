@@ -1,0 +1,132 @@
+.dwShow
+{
+    margin: 0;
+    display: block;
+    background: white;
+    width: 100%;
+    height: 500px;
+    min-width: 900px;
+    background-image: url('./../imges/imgOfDwing/39.jpg');
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.dwShow2
+{
+    margin: 0;
+    display: block;
+    background: white;
+    width: 100%;
+    height: 500px;
+    min-width: 900px;
+    background-image: url('./../imges/imgOfDwing/29.jpg');
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.dwShow3
+{
+    margin: 0;
+    display: block;
+    background: white;
+    width: 100%;
+    height: 500px;
+    min-width: 900px;
+    background-image: url('./../imges/imgOfDwing/3.jpg');
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.dw3,
+.dw2,
+.dw1
+{
+    padding-top: 30px;
+    display: block;
+    font-size: 60px;
+    font-weight: 900;
+}
+.introduce,
+.introduce2
+{
+    display: block;
+    font-size: 30px;
+}
+.dw1,
+.introduce
+{
+    color: white;
+}
+.dw2,
+.introduce2
+{
+    color: black;
+}
+.shoping
+{
+    display: block;
+    font-size: 20px;
+    color: rgb(196, 196, 196);
+}
+.shoping2
+{
+    display: block;
+    font-size: 20px;
+    color: rgb(78, 78, 78);
+}
+a:link
+{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-decoration: none;
+}
+a:visited
+{
+    color: rgb(255, 255, 255);
+}
+.space1
+{
+    display: inline;
+    margin: 20px;
+}
+
+.dw2,
+.dw1,
+.dw3,
+.introduce,
+.introduce2,
+.shoping,
+.shoping2,
+.temp
+{
+    margin-left: 60px;
+}
+.end
+{
+    margin: 0;
+    display: block;
+    background: white;
+    width: 100%;
+    height: 500px;
+    min-width: 900px;
+}
+.over
+{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    font-size: 13px;
+    color: gray;
+}
+.over a:link,
+.over a:hover,
+.over a:visited
+{
+    font-size: 13px;
+    color:black;
+}
+.temp a:link,
+.temp a:hover,
+.temp a:visited
+{
+    color: rgb(255, 100, 172);
+    font-size: 25px;
+    text-decoration: none;
+}

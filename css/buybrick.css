@@ -1,0 +1,121 @@
+.toptitle{
+    width: 100%;
+    min-width: 900px;
+    height: 50px;
+    background: rgb(209, 209, 209);
+    background-image: url(./../imges/logo.ico);
+    background-size: 50px;
+    background-repeat: no-repeat;
+    background-position-y: center;
+}
+.text1{
+    text-align: center;
+    color: black;
+}
+.text1 .title{
+    font-size: 30px;
+    padding-top: 6px;
+}
+.firstblock{
+    margin-top: 10px;
+    width: 100%;
+    min-width: 900px;
+    height: 700px;
+    background-image: url(./../imges/砖块介绍3.jpg);
+    background-repeat: no-repeat;
+    background-size: 600px;
+}
+.text2{
+    margin-left: 600px;
+    padding-top: 50px;
+}
+.text2 .top{
+    color: black;
+    font-size: 50px;
+}
+.text2 .down{
+    margin-left: 30px;
+    color: gray;
+    font-size: 18px;
+}
+.text2 .valtitle{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 25px;
+    color: #008686;
+}
+.text2 .val{
+    margin-left: 30px;
+    font-size: 20px;
+    color: black;
+}
+.location{
+    width: 520px;
+    background: rgb(202, 202, 202);
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.location .sheng,
+.location .city{
+    width: 50px;
+    height: 25px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 8px;
+    padding-left: 10px;
+}
+.location .mine{
+    width: 300px;
+    height: 25px;
+    border: none;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+.choosecolor{
+    width: 545px;
+    margin-top: 30px;
+    font-size: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #008686;
+
+}
+.choosecolor input{
+    margin-left: 30px;
+}
+.accept{
+    display: block;
+    width: 100px;
+    text-align: center;
+    margin-top: 30px;
+    background: blueviolet;
+    padding-left: 8px;
+    padding-top: 5px;
+    padding-right: 8px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.accept a:link,
+.accept a:visited{
+    color: white;
+    text-decoration: none;
+}
+.accept a:hover{
+    color: gray;
+}
+.accept a:active{
+    color: black;
+}
+.buy02{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}

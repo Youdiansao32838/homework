@@ -1,0 +1,54 @@
+.baseback
+{
+    margin: 0;
+    display: block;
+    width: 100%;
+    height: 1000px;
+    min-width: 900px;
+    background-image: url('./../imges/imgOfEx/002.jpg');
+    background-repeat: no-repeat;
+}
+.extext1
+{
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+.extext2
+{
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+.extext3
+{
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.baseback a:link
+{
+    margin-top: 0;
+    color: rgb(63, 63, 63);
+    text-decoration: none;
+}
+.baseback a:visited
+{
+    color: rgb(63, 63, 63);
+}
+.baseback a:hover
+{
+    color: rgb(255, 255, 255);
+}
+.baseback a:active
+{
+    color: black;
+}
+.item
+{
+    display: block;
+    margin-top: 50px;
+}

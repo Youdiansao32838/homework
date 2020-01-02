@@ -1,0 +1,114 @@
+.brickProShow
+{
+    margin: 0;
+    display: block;
+    background: black;
+    width: 100%;
+    height: 500px;
+    min-width: 900px;
+    background-image: url('./../imges/砖头.jpg');
+    background-repeat: no-repeat;
+}
+.brickShow
+{
+    margin: 0;
+    display: block;
+    background: white;
+    width: 100%;
+    height: 500px;
+    min-width: 900px;
+    background-image: url('./../imges/砖头2.jpg');
+    background-repeat: no-repeat;
+}
+.stoveShow
+{
+    margin: 0;
+    display: block;
+    background: rgb(206, 206, 206);
+    width: 100%;
+    height: 500px;
+    min-width: 900px;
+    background-image: url('./../imges/电磁炉.jpg');
+    background-repeat: no-repeat;
+}
+.stove,
+.brick,
+.brickpro
+{
+    padding-top: 30px;
+    display: block;
+    font-size: 60px;
+    font-weight: 900;
+}
+.introduce,
+.introduce2
+{
+    display: block;
+    font-size: 30px;
+}
+.brickpro,
+.introduce
+{
+    color: white;
+}
+.brick,
+.introduce2
+{
+    color: black;
+}
+.shoping
+{
+    display: block;
+    font-size: 20px;
+    color: grey;
+}
+a:link
+{
+    color: rgb(86, 154, 255);
+    font-size: 25px;
+    text-decoration: none;
+}
+a:visited
+{
+    color: rgb(86, 154, 255);
+}
+.space1
+{
+    display: inline;
+    margin: 20px;
+}
+
+.brick,
+.brickpro,
+.stove,
+.introduce,
+.introduce2,
+.shoping,
+.temp
+{
+    margin-left: 80px;
+}
+.end
+{
+    margin: 0;
+    display: block;
+    background: white;
+    width: 100%;
+    height: 500px;
+    min-width: 900px;
+}
+.over
+{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    font-size: 13px;
+    color: gray;
+}
+.over a:link,
+.over a:hover,
+.over a:visited
+{
+    font-size: 13px;
+    color:black;
+}
